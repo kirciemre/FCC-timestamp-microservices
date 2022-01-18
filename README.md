@@ -16,3 +16,8 @@ Please pay attention to the conditional variable assignment part on line 29.
 In addition, checking the validity of the date variable is a bit tricky.  If the parameter is invalid Date format (date instanceof Date) returns FALSE but isNaN(date.getTime()) returns TRUE. Therefore, it is necessary to add an exclamation point at the beginning of this expression on line 31.  
 
 Less is more! Have a nice day! :sunglasses:
+
+
+
+# [Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
+
