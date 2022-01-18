@@ -3,9 +3,9 @@ It's a solution to the challenge of the FCC Backend Development and API Timestam
 
 It has 3 main specification; 
 
-1- Give "api/2015-12-25" -> get unix and utc time; 
-2- Give "api/1479663089000" -> get  unix and utc time; 
-3- Give "api/1479663blablabla" -> get error: "Invalid Date" with json response.  
+1. Give "api/2015-12-25" -> get unix and utc time; 
+2. Give "api/1479663089000" -> get  unix and utc time; 
+3. Give "api/1479663blablabla" -> get error: "Invalid Date" with json response.  
 
 You need to set the date correctly according to its type UNIX or traditional date. That's the whole point!  
 
